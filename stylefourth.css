@@ -1,0 +1,38 @@
+section {
+width: 1000px;
+margin: 0 auto;
+}
+
+.section-rules {
+    /* display: flex; */
+}
+
+.rules {
+    height: 50px;
+}
+
+.rules-cont {
+    margin-left: 200px;
+}
+
+.sideinf {
+    width: 30%;
+}
+
+.side-text {
+    display: flex;
+    padding: 20px;
+}
+
+.dashflex {
+    /* display: flex; */
+    /* justify-content: flex-start; */
+    /* align-items: center; */
+}
+
+.dash {
+    width: 15px;
+    height: 3px;
+    background-color: #8D86C9;
+    margin-right: 10px;
+}
